@@ -17,4 +17,27 @@ var spotify = new Spotify(keys.spotify);
 var action = process.argv[2];
 var value = process.argv[3];
 
+switch (action) {
+    case "concert-this":
+        getBands(value)
+        break;
+    case "spotify-this-song":
+        if (value === "") {
+            value = defaultSong;
+        }
+     getSongs(value)
+     break;
+    case "move-this":
+        if (value === "") {
+            value = defaultMovie;
+        }
+     getMovies(value)
+     break;
+    case "do-what-it-says":
+        doWhatItSays()
+     break;
+    default:
+     break;
+}
+
 
