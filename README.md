@@ -45,7 +45,7 @@ LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
      * Venue location
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
      
-2. <strong>node liri.js spotify-this-song <song name here></strong>
+2. <strong>`node liri.js spotify-this-song '<song name here>'`</strong>
 
    * Shows the following information about the song in your terminal/bash window:
 
@@ -56,7 +56,7 @@ LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
 
    * If no song is provided then the program will default to "The Sign" by Ace of Base.
    
-3. <strong>node liri.js movie-this <movie name here></strong>
+3. <strong>`node liri.js movie-this '<movie name here>'`</strong>
 
    * This will output the following information to your terminal/bash window:
 
