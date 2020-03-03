@@ -18,9 +18,11 @@ Use Node JS to create LIRI Bot where it takes in commands through Language inter
   
 <h2>Technology Used</h2>
 
-GitHub
-Visual Studio Code
-Node.js
+<li>GitHub</li>
+<li>Visual Studio Code</li>
+<li>Node.js</li>
+
+<h3>API</h3>
   
   
 
