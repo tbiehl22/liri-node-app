@@ -22,12 +22,16 @@ Use Node JS to create LIRI Bot where it takes in commands through Language inter
 <li>Visual Studio Code</li>
 <li>Node.js</li>
 
-<h3>API's</h3>
+<h4>API's</h4>
 <li>OMDB (http://www.omdbapi.com)</li>
 <li>Bands in Town (http://www.artists.bandsintown.com/bandsintown-api)</li>
-<li>Spotify: (https://developer.spotify.com/)</li>
+<li>Spotify (https://developer.spotify.com/)</li>
   
-  
+ <h4>NPM Packages</h4>
+<li>Node-Spotify-API (https://www.npmjs.com/package/node-spotify-api)</li>
+<li>Axios (https://www.npmjs.com/package/axios)</li>
+<li>Moment (https://www.npmjs.com/package/moment)</li> 
+<li>DotEnv (https://www.npmjs.com/package/dotenv)</li> 
 
 
 
