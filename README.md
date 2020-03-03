@@ -79,18 +79,4 @@ LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
 
 <h1>Screenshots</h1>
 
-   * You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
-
-
-
-
-
-
-
-
-
-
-
-
-link to screenshots
-https://docs.google.com/document/d/1AiCi1sMZxJ1mfEHeZR5iXl1II3XnTo1mizDf8i6c1EM/edit?usp=sharing
+Link: https://docs.google.com/document/d/1AiCi1sMZxJ1mfEHeZR5iXl1II3XnTo1mizDf8i6c1EM/edit?usp=sharing
