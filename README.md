@@ -44,6 +44,20 @@ LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
      * Name of the venue
      * Venue location
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     
+2. <strong>node liri.js spotify-this-song '<song name here></strong>
+
+   * Shows the following information about the song in your terminal/bash window:
+
+     * Artist(s)
+
+     * The song's name
+
+     * A preview link of the song from Spotify
+
+     * The album that the song is from
+
+   * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 
 
