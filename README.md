@@ -10,11 +10,11 @@ Use Node JS to create LIRI Bot where it takes in commands throught Language inte
 
 <li>concert-this</li>
 
-spotify-this-song
+<li>spotify-this-song</li>
 
-movie-this
+<li>movie-this</li>
 
-do-what-it-says
+<li>do-what-it-says</li>
   
 
 
