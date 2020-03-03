@@ -37,7 +37,7 @@ Use Node JS to create LIRI Bot where it takes in commands through Language inter
 
 LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
 
-1. <strong>node liri.js concert-this '<artist/band name here>'</strong>
+1. <strong>`node liri.js concert-this <artist/band name here>`</strong>
 
    Searches the Bands in Town Artist Events API for an artist and renders the following information about each event to the terminal:
 
@@ -71,7 +71,7 @@ LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
 
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
- 4. <strong>node liri.js do-what-it-says</strong>
+ 4. <strong>`node liri.js do-what-it-says`</strong>
 
    * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
