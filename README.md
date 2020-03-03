@@ -41,9 +41,9 @@ LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
 
    Searches the Bands in Town Artist Events API for an artist and renders the following information about each event to the terminal:
 
-     <li>Name of the venue</li>
-     <li>Venue location</li>
-     <li>Date of the Event (use moment to format this as "MM/DD/YYYY")</li>
+     * Name of the venue
+     * Venue location
+     * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
 
 
