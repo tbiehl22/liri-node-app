@@ -33,7 +33,17 @@ Use Node JS to create LIRI Bot where it takes in commands through Language inter
 <li>Moment (https://www.npmjs.com/package/moment)</li> 
 <li>DotEnv (https://www.npmjs.com/package/dotenv)</li> 
 
+<h2>What Each Command Does</h2>
 
+LIRI searches Spotify for songs, OMDB for movies and Bands in Town for concerts.
+
+1. <strong>node liri.js concert-this <artist/band name here></strong>
+
+   Searches the Bands in Town Artist Events API for an artist and renders the following information about each event to the terminal:
+
+     <li>Name of the venue</li>
+     <li>Venue location</li>
+     <li>Date of the Event (use moment to format this as "MM/DD/YYYY")</li>
 
 
 
